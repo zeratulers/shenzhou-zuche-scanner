@@ -1,0 +1,20 @@
+# 敏感数据 / 运行时生成文件 —— 请勿提交
+cookie_cache.txt
+scan_data.json
+map.html
+shenzhou_*.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

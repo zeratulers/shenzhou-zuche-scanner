@@ -1,0 +1,41 @@
+[
+  {
+    "doorServiceTime": "09:00-16:00",
+    "cityLon": "116.407526",
+    "testDriverFlag": true,
+    "enName": "Beijing",
+    "cityId": "1",
+    "doorFlag": true,
+    "cityName": "北京",
+    "doorParkFlag": true,
+    "cityLat": "39.904030",
+    "code": "110100",
+    "doorServiceTips": "请至少提前4小时预订"
+  },
+  {
+    "doorServiceTime": "09:00-20:00",
+    "cityLon": "117.200983",
+    "testDriverFlag": true,
+    "enName": "Tianjin",
+    "cityId": "2",
+    "doorFlag": true,
+    "cityName": "天津",
+    "doorParkFlag": false,
+    "cityLat": "39.084158",
+    "code": "120100",
+    "doorServiceTips": "请至少提前4小时预订"
+  },
+  {
+    "doorServiceTime": "09:00-20:00",
+    "cityLon": "121.614682",
+    "testDriverFlag": true,
+    "enName": "Dalian",
+    "cityId": "3",
+    "doorFlag": true,
+    "cityName": "大连",
+    "doorParkFlag": false,
+    "cityLat": "38.914003",
+    "code": "210200",
+    "doorServiceTips": "请至少提前4小时预订"
+  }
+]
